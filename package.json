@@ -30,6 +30,8 @@
   "author": "Daniel Eugene Botha (HashLips), NFTChef",
   "license": "MIT",
   "dependencies": {
+    "@mysten/bcs": "^0.5.0",
+    "@mysten/sui.js": "^0.24.0",
     "@types/commander": "^2.12.2",
     "aws-sdk": "^2.1299.0",
     "canvas": "^2.8.0",
@@ -39,8 +41,10 @@
     "eslint-plugin-node": "^11.1.0",
     "gif-encoder": "^0.7.2",
     "gif-encoder-2": "^1.0.5",
+    "i": "^0.3.7",
     "keccak256": "^1.0.3",
     "sharp": "^0.30.2",
+    "superstruct": "^1.0.3",
     "ts-migrate": "^0.1.35",
     "types": "^0.1.1"
   },

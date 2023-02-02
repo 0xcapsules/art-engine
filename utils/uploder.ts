@@ -31,5 +31,5 @@ const scanAndUpload = async (path: string) => {
     }
 }
 
-scanAndUpload("/home/george/projects/art-engine/build/images");
+scanAndUpload("path-to-read");
 
